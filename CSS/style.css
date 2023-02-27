@@ -2,6 +2,7 @@
 
 html{
     position: relative;
+    overflow-x: hidden;
 }
 
 .sessao, .centro{
@@ -75,6 +76,12 @@ html{
 }
 
 /* parte 3 */
+
+.carrosselajuste{
+    width: 850px;
+}
+
+/* parte 4 */
 
 .compreja{
     padding: 10px;
